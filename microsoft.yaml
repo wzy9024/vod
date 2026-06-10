@@ -1,4 +1,5 @@
 payload:
+    - +.microsoft.com
     - +.xboxlive.com
     - +.xbox.com  
     - +.aadrm.com
