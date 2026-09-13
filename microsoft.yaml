@@ -60,3 +60,6 @@ payload:
     - +.windows.net
     - +.windowsazure.com
     - +.windowsupdate.com
+    - +.ntp.org
+    - +.apple.com
+    - +.icloud.com
